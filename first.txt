@@ -11,3 +11,4 @@ will this work?
 how to push branch to github?
 wondering with lotts of changes
 in this file
+now next commit will try to merge the files
