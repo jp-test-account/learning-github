@@ -12,3 +12,10 @@ if needed, well then see you at experiment branch, bye from master branch, see y
 still adding more lines, trying to jot down more and more concepts in a single file
 well, yes next file will be a real coding one, trying to figure out how really code merges
 and also getting the idea how exactly smart is github, and i know git is really cool but is github too?
+no rule, 
+study this poem / story / anything with intense care
+will this work?
+how to push branch to github?
+wondering with lotts of changes
+in this file
+now next commit will try to merge the files
