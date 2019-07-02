@@ -9,3 +9,6 @@ Yes, this file will still follow the same code pattern,
 meaning, the next line will be longer than the first line
 well, why am i doing this, because i want to see, how github mearges branch
 if needed, well then see you at experiment branch, bye from master branch, see ya
+still adding more lines, trying to jot down more and more concepts in a single file
+well, yes next file will be a real coding one, trying to figure out how really code merges
+and also getting the idea how exactly smart is github, and i know git is really cool but is github too?
