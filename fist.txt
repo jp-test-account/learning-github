@@ -2,6 +2,12 @@ hey
 hello
 this is learning github
 and it's component, where
-each line is longer than the previous one
+no rule, 
+no hard and fast rule
+this is a branch, really from master branch
 oh haven't you figured it out yet, then please 
 study this poem / story / anything with intense care
+will this work?
+how to push branch to github?
+wondering with lotts of changes
+in this file
