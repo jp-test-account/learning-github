@@ -5,3 +5,7 @@ and it's component, where
 each line is longer than the previous one
 oh haven't you figured it out yet, then please 
 study this poem / story / anything with intense care
+Yes, this file will still follow the same code pattern, 
+meaning, the next line will be longer than the first line
+well, why am i doing this, because i want to see, how github mearges branch
+if needed, well then see you at experiment branch, bye from master branch, see ya
